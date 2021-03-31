@@ -9,5 +9,5 @@ We're currently running the grant program to fund developers or community member
 Go to [Discussions](https://github.com/opynfinance/OGP/discussions/new) and share your idea with everyone.
 
 ## I am a great developer: 
-If you find something interesting on the discussion section and want to start building it, open a PR an fill our some more details for the proposal to let us know you want to start working on it!
+If you find something interesting on the discussion section and want to start building it, open an **Issue** with the **Proposal Template** an fill our some more details for the proposal to let us know you want to start working on it!
 
