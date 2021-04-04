@@ -5,9 +5,10 @@ We're currently running the grant program to fund developers or community member
 
 ![image](https://user-images.githubusercontent.com/20136488/113127266-253eb080-924b-11eb-8394-ef0d50821db9.png)
 
-## I have a great idea:
+## I have a great idea
+
 Go to [Discussions](https://github.com/opynfinance/OGP/discussions/new) and share your idea with everyone.
 
-## I am a great developer: 
-If you find something interesting on the discussion section and want to start building it, open an **Issue** with the **Proposal Template** an fill our some more details for the proposal to let us know you want to start working on it!
+## I am a great developer
 
+If you find something interesting on the discussion section and want to start building it, open a PR which contain a markdown named `OGP-{}.md` in the `proposals` folder using the template.md file as template.
