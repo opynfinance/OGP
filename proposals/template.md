@@ -4,7 +4,7 @@
 | -------- | -------- |
 | Status | Draft |
 | Author   | {Your name + link to the intro in discussion!}  |
-| Discussion   | {Link to project discussion}  |
+| Discussion   | {Link to project discussion or issue #}  |
 | Labels | |
 | Repo   | {link to your repo if you have one}  |
 
