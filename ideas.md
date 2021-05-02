@@ -69,3 +69,23 @@ Please don’t feel that you need to work on one of these ideas in order to appl
 
 - **Tags:** Integration
 - **Description:** A vault saver function that can be used when we have liquidations. The vault saver can deposit collateral to save the vault from getting liquidated, or buy back options using collateral with an atomic transaction, withdrawal collateral do a trade on 0x and burn oTokens all in the same transaction)
+
+### Rollovers
+
+- **Tags:** Integration
+- **Description:** Allow users to rollover their options from one expiry until the next. For example, if a user holds on to an option that expires on Oct. 30, give them the ability to have that option automatically rollover to expire on a date in the future eg. Nov 30. You can accomplish this relatively simply using the new “operator” functionality in Opyn v2, where users can delegate vault actions to another smart contract.
+
+### Portfolio Managers
+
+- **Tags:** Integration
+- **Description:** With Opyn v2’s new “operator” functionality, users can delegate out portfolio management to dedicated portfolio managers. These managers could be individuals or smart contracts that employ specific strategies.
+
+### Structured products
+
+- **Tags:** Integration
+- **Description:** You can use options in combination with other financial primitives to build interesting structured products. For example, you could attach a call or put option to an ERC-20. One way this could work to go to a money market (eg. Compound, Aave), look at the fixed rate lending rates, and deposit an amount (say 0.99 USDC) that yields 1 USDC at expiry. Then you could use the remaining 0.01 USDC to buy a call option. The user’s upside exposure would be based on the 0.01 and the price of a call option.
+
+### OTC oTokens Interface
+
+- **Tags:** Interface
+- **Description:** To avoid slippage, a lot of large oToken users are looking for ways to conduct OTC trades for oTokens. You could facilitate this using 0x as a settlement layer, building a simple interface for parties to interact with eachother while preserving anonymity — this could be something similar to what Boxswap does for OTC NFT trading.
