@@ -90,12 +90,12 @@ Please don’t feel that you need to work on one of these ideas in order to appl
 - **Tags:** Interface
 - **Description:** To avoid slippage, a lot of large oToken users are looking for ways to conduct OTC trades for oTokens. You could facilitate this using 0x as a settlement layer, building a simple interface for parties to interact with eachother while preserving anonymity — this could be something similar to what Boxswap does for OTC NFT trading.
 
-### Liquidaiton Bot
+### Liquidation Bot
 
 - **Tags:** Contract, Integration 
 - **Description:** An account liquidation occurs when the holdings of a vault are sold by the smart contract in order to satisfy margin requirements. Develop a bot that automatically liquidates accounts that receive a margin call.
 
-### Liquidaiton Interface
+### Liquidation Interface
 
 - **Tags:** Interface
 - **Description:** Develop an liquidation interface for the Opyn.co front-end. Display vault health, holdings, liquidation analysis, calculations, and charts. 
