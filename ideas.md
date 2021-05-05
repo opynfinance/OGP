@@ -100,7 +100,7 @@ Please don’t feel that you need to work on one of these ideas in order to appl
 - **Tags:** Interface
 - **Description:** Develop an liquidation interface for the Opyn.co front-end. Display vault health, holdings, liquidation analysis, calculations, and charts. 
 
-### Operator to swwap USDC to ETH
+### Operator to swap USDC to ETH
 
 - **Tags:** Contract
 - **Description:** Use Opyn's operator function to auto-redeem put option cash settlements and swap USDC to ETH.
