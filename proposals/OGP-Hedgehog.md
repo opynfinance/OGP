@@ -20,7 +20,7 @@ The strategy will be implemented as a one-click deposit LP-vault.
 * The post that explained rebalance auction: https://medium.com/@yevhenx/on-rebalance-auction-e43c80d8b1ec
 * Already implemented as an automated trading strategy: https://github.com/leooos33/HDL-strategy-/tree/dev
 * As well as rebalancing bot (keeper).
-* The only part that is left is a front end. (On one of the hackathons we have built [DEX](https://app.liqui.space/swap) on Ropsten - contracts + front-end, so this part will not be a problem).
+* The only part that is left is a front end.
 
 ## Milestones
 
